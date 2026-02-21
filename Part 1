@@ -1,0 +1,6 @@
+print("Name: Angel Magalso")
+    print("Age: 20")
+    print("Course: Computer Science")
+
+# Calling the function
+display_personal_details()
