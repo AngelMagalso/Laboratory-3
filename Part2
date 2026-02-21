@@ -1,0 +1,6 @@
+def display_info(name, age, course, year, section):
+    print(f"Student: {name}")
+    print(f"Details: {age} years old, {course} {year}-{section}")
+
+# Passing 'arguments' to the parameters
+display_info("Angel Magalso", 20, "BSCS", "2nd", "A")
